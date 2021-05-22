@@ -1,0 +1,21 @@
+{
+  "type": "var_assign",
+  "var_name": {
+    "type": "identifier",
+    "value": "name",
+    "text": "name",
+    "offset": 0,
+    "lineBreaks": 0,
+    "line": 1,
+    "col": 1
+  },
+  "value": {
+    "type": "string",
+    "value": "\"Salut\"",
+    "text": "\"Salut\"",
+    "offset": 7,
+    "lineBreaks": 0,
+    "line": 1,
+    "col": 8
+  }
+}

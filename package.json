@@ -1,0 +1,17 @@
+{
+    "name": "ortix-langage",
+    "version": "1.0.0",
+    "description": "The Ortix Programming Langage",
+    "main": "index.js",
+    "scripts": {
+        "gen-parser": "nearleyc ortx.ne -o ortx.js"
+    },
+    "author": "The Ortix Foundation",
+    "license": "ISC",
+    "keywords": [],
+    "dependencies": {
+        "moo": "^0.5.1",
+        "mz": "^2.7.0",
+        "nearley": "^2.20.1"
+    }
+}
